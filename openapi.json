@@ -5532,7 +5532,7 @@
       "description": "List of available localization cultures",
       "get": {
         "tags": [
-          ""
+          "Core"
         ],
         "description": "List of available localization cultures",
         "operationId": ".GetAvailableLocales",
@@ -5550,7 +5550,7 @@
       "description": "Get the common settings used by the Bungie.Net environment.",
       "get": {
         "tags": [
-          ""
+          "Core"
         ],
         "description": "Get the common settings used by the Bungie.Net environment.",
         "operationId": ".GetCommonSettings",
@@ -5568,7 +5568,7 @@
       "description": "Gets any active global alert for display in the forum banners, help pages, etc. Usually used for DOC alerts.",
       "get": {
         "tags": [
-          ""
+          "Core"
         ],
         "description": "Gets any active global alert for display in the forum banners, help pages, etc. Usually used for DOC alerts.",
         "operationId": ".GetGlobalAlerts",
@@ -40132,7 +40132,7 @@
       "description": "fireteam"
     },
     {
-      "name": "",
+      "name": "Core",
       "description": "core"
     }
   ],
